@@ -1,0 +1,438 @@
+[
+    {
+        "question": "Qui interprète Nick Quasi-Sans-Tête dans le film \"Harry Potter à l'école des Sorcier\"",
+        "choix": [
+            "John Cleese",
+            "Ralph Fiennes",
+            "Gary Oldman",
+            "Jason Anthony"
+        ],
+        "reponse": 0,
+        "joker": [
+            1,
+            2
+        ],
+        "infos": "Ralph Fiennes joue Voldemort, Gary Oldman joue Sirius Black,<br> et Jason Anthony joue la voix de Nick dans le jeu L'héritage de Poudlard"
+    },
+    {
+        "question": "Quel est le deuxième prénom de Fleur Delacour",
+        "choix": [
+            "Gabrielle",
+            "Isabelle",
+            "Ariane",
+            "Apolline"
+        ],
+        "reponse": 1
+    },
+    {
+        "question": "A quelle maison appartient Nick Quasi-Sans-Tête",
+        "choix": [
+            "Poufsouffle",
+            "Gryffondor",
+            "Serdaigle",
+            "Serpentard"
+        ],
+        "reponse": 1
+    },
+    {
+        "question": "De quelle maison, Pomona Chourave a t-elle était la directrice",
+        "choix": [
+            "Poufsouffle",
+            "Gryffondor",
+            "Serdaigle",
+            "Serpentard"
+        ],
+        "reponse": 0
+    },
+    {
+        "question": "Où se situe l'academie Beauxbâtons",
+        "choix": [
+            "En Normandie",
+            "En Alsace",
+            "Dans les Pyrénées",
+            "En Bretagne"
+        ],
+        "reponse": 2,
+        "joker": [
+            0,
+            1
+        ]
+    },
+    {
+        "question": "De quelle maison, Filius Flitwick a t-il était le directeur",
+        "choix": [
+            "Poufsouffle",
+            "Gryffondor",
+            "Serdaigle",
+            "Serpentard"
+        ],
+        "reponse": 2
+    },
+    {
+        "question": "Qui interprète Voldemort dans le film \"Harry Potter à l'école des Sorcier\"",
+        "choix": [
+            "Ralph Fiennes",
+            "Gary Oldman",
+            "Jason Anthony",
+            "Richard Bremmer"
+        ],
+        "reponse": 3,
+        "joker": [
+            1,
+            2
+        ]
+    },
+    {
+        "question": "Quel est le nom de jeune fille de la mère de Harry Potter",
+        "choix": [
+            "Simmons",
+            "Hills",
+            "Dudley",
+            "Evans"
+        ],
+        "reponse": 3,
+        "joker": [
+            1,
+            2
+        ]
+    },
+    {
+        "question": "Qui est la directrice de l'academie Beauxbâtons",
+        "choix": [
+            "Madame Claude",
+            "Madame Maxime",
+            "Madame Tusso",
+            "Madame Poussin"
+        ],
+        "reponse": 1
+    },
+    {
+        "question": "Quelle profession occupe le père d'Hermione Granger",
+        "choix": [
+            "Epicier",
+            "Dentiste",
+            "Professeur",
+            "Postier"
+        ],
+        "reponse": 1,
+        "joker": [
+            0,
+            2
+        ]
+    },
+    {
+        "question": "Jusqu'en 2010, lequel de ces personnages n'a pas vue son acteur incarner un role dans <i>doctor who</i> ?",
+        "choix": [
+            "Mimi Gemiarde",
+            "Dumbledor",
+            "Ron Weasley",
+            "Arthur Weasley"
+        ],
+        "joker": [
+            1,
+            3
+        ],
+        "reponse": 2,
+        "info": "Mimi gémiarde interprété par <i>Shirley Henderson</i> a joué Ursula Blake<br>Dumbledor interprété par Michael Gambon a joué Kazran / Elliot Sardick<br> Arthur Weasley interprété par Mark Williams joue Brian Williams dans doctor who"
+    },
+    {
+        "question": "A partir de quel arbre la baguette d'Hermione à t-elle été créée",
+        "choix": [
+            "If",
+            "Houx",
+            "Chêne",
+            "Vigne"
+        ],
+        "reponse": 3,
+        "joker": [
+            0,
+            1
+        ]
+    },
+    {
+        "question": "A quel age harry potter a rejoint l'école des sorcier pour sa première année",
+        "choix": [
+            "8 ans",
+            "9 ans",
+            "10 ans",
+            "11 ans"
+        ],
+        "reponse": 3
+    },
+    {
+        "question": "D'après les films, à quel age les sorcière perdent-il la Trace qui detecte quand il usent de magie",
+        "choix": [
+            "15 ans",
+            "16 ans",
+            "17 ans",
+            "18 ans"
+        ],
+        "reponse": 2,
+        "joker": [
+            0,
+            3
+        ],
+        "info": "la Trace magique est un concept spécifique au monde cinématographique de Harry Potter"
+    },
+    {
+        "question": "Lequel de ces sorciers n'a pas appartenu à Serpentard",
+        "choix": [
+            "Merlin",
+            "Horace Slughorn",
+            "Severus Rogue",
+            "Sibylle Trelawney"
+        ],
+        "joker": [
+            1,
+            2
+        ],
+        "reponse": 3,
+        "info": "Sibylle Trelawney appartenait à Serdaigle"
+    },
+    {
+        "question": "Comment s'appelle le chien d'Hagrid",
+        "choix": [
+            "Touffu",
+            "Crockdur",
+            "Patmol",
+            "Fenrir"
+        ],
+        "reponse": 1
+    },
+    {
+        "question": "A quelle maison appartient le professeur Trelawney",
+        "choix": [
+            "Poufsouffle",
+            "Gryffondor",
+            "Serdaigle",
+            "Serpentard"
+        ],
+        "reponse": 2,
+        "joker": [
+            1,
+            3
+        ]
+    },
+    {
+        "question": "Qui est Bellatrix Lestrange pour Sirius Black ?",
+        "choix": [
+            "Sa belle soeur",
+            "Sa cousine",
+            "Sa nièce",
+            "Sa soeur"
+        ],
+        "reponse": 1
+    },
+    {
+        "question": "Qui est Narcissa Malefoy pour Bellatrix Lestrange ?",
+        "choix": [
+            "Sa Maraine",
+            "Sa cousine",
+            "Sa nièce",
+            "Sa soeur"
+        ],
+        "reponse": 3
+    },
+    {
+        "question": "Avec Bellatrix Lestrange  et Sirius black, qui a été emprisoné dans la prison d'Askaban la même année",
+        "choix": [
+            "Perceval Dumbledore",
+            "Rubeus Hagrid",
+            "Barty Croupton Jr.",
+            "Mondingus Fletcher"
+        ],
+        "reponse": 2
+    },
+    
+    {
+        "question": "Avec <i>Avada Kedavra</i> et <i>endoloris</i> quel autre sort fait partie des sortilège impardonnable?",
+        "choix": [
+            "Impero",
+            "Stupefixe",
+            "Expeliarmus",
+            "Petrificus Totalus"
+        ],
+        "reponse": 0
+    },
+    {
+        "question": "Qui double Ron Weasley dans la version française",
+        "choix": [
+            "Kelyan Blanc",
+            "Julien Allouf",
+            "Olivier Martret",
+            "Claude Giraud"
+        ],
+        "reponse": 2
+    },
+    {
+        "question": "Comment s'appelle l'auberge dans laquelle se déroule la première réunion de l'<i>Armée de Dumbledor</i>",
+        "choix": [
+            "La Tête de Sanglier",
+            "Le Pied de Chevreuille",
+            "La Pâte de Lapin",
+            "Le Cros du Loup"
+        ],
+        "reponse": 0
+    },
+    {
+        "question": "Qui est Bellatrix Lestrange pour Nymphadora Tonks ?",
+        "choix": [
+            "Sa tante",
+            "Sa cousine",
+            "Sa nièce",
+            "Sa soeur"
+        ],
+        "reponse": 0
+    },
+    {
+        "question": "Quel est le prénom de la mère de Neville Londubat",
+        "choix": [
+            "Alice",
+            "Helene",
+            "Marie",
+            "Petunia"
+        ],
+        "reponse": 0
+    },
+    {
+        "question": "Où se situe la prison d'Azkaban",
+        "choix": [
+            "Dans l'atlantique",
+            "Dans la mer du nord",
+            "Mer d'irlande",
+            "Mer baltique"
+        ],
+        "reponse": 0
+    },
+    {
+        "question": "A partir de quel arbre la première baguette d'Harry à t-elle été créée",
+        "choix": [
+            "If",
+            "Houx",
+            "Chêne",
+            "Frêne"
+        ],
+        "reponse": 1,
+        "joker": [
+            0,
+            3
+        ]
+    },
+    {
+        "question": "Comment s'appelle le père de Severus Rogue",
+        "choix": [
+            "Peter",
+            "Tobias",
+            "Doran",
+            "Ayden"
+        ],
+        "reponse": 1,
+        "joker": [
+            0,
+            2
+        ],
+        "infos": "L'information est révélé dans le 7<sup>ième</sup> roman \"Harry Potter et les reliques de la mort\""
+    },
+    {
+        "question": "Après la mort de ses parents, qui a élevé Neville Londubat",
+        "choix": [
+            "Son grand Oncle",
+            "Son oncle",
+            "Sa tante",
+            "Sa grand mère"
+        ],
+        "reponse": 3
+    },
+    {
+        "question": "Qui a torturé les parents de Neville",
+        "choix": [
+            "Peter Petigrow",
+            "Bellatrix Lestrange",
+            "Quirinus Quirrell",
+            "Lucius Malefoy"
+        ],
+        "reponse": 1,
+        "joker": [
+            0,
+            3
+        ]
+    },
+    {
+        "question": "Lorsqu'il faisait partie des Marauders, quel était le surnom de James Potter ?",
+        "choix": [
+            "Cornedrue",
+            "Patmol",
+            "Queudvere",
+            "Lunar"
+        ],
+        "reponse": 0,
+        "infos": "Cornedrue car James est un animalgus qui se transforme en Cerfs"
+    },
+    {
+        "question": "Qui a réalisé le film \"Harry Potter et la Coupe de Feu \"",
+        "choix": [
+            "Mike Newell",
+            "Chris Columbus",
+            "Alfonso Cuarón",
+            "David Yates"
+        ],
+        "reponse": 0
+    },
+    {
+        "question": "Qui interprète Voldemort à partir de \"la coupe de feu\"",
+        "choix": [
+            "Ralph Fiennes",
+            "Gary Oldman",
+            "Jason Anthony",
+            "Richard Bremmer"
+        ],
+        "reponse": 0,
+        "joker": [
+            1,
+            2
+        ]
+    },
+    {
+        "question": "Quel est le quatrième prénom de Dumbledor",
+        "choix": [
+            "Perceval ",
+            "Wulfric ",
+            "Brian",
+            "Jason"
+        ],
+        "reponse": 2,
+        "joker": [
+            1,
+            3
+        ]
+    },
+    {
+        "question": "Dans le livre Harry Potter et la coupe de feu, qui donne la Branchiflore à Harry ",
+        "choix": [
+            "Dobby ",
+            "Neville ",
+            "Hermione",
+            "Ron"
+        ],
+        "reponse": 0,
+        "joker": [
+            2,
+            3
+        ],
+        "infos": "C'est une des différences avec le film. Car si Dobby devait donner la Branchiflore, il aurait fallu monter et tourner une scene en plus pour expliquer la présence de Dobby"
+    },
+    {
+        "question": "Qui est le premier propriétaire du <i>Choixpeau</i> ? ",
+        "choix": [
+            "Godric Gryffondor",
+            "Helga Poufsouffle",
+            "Rowena Serdaigle",
+            "Salazar Serpentard"
+        ],
+        "reponse": 0,
+        "joker": [
+            2,
+            3
+        ]
+    }
+]

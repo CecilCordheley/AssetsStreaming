@@ -1,0 +1,301 @@
+[
+    {
+        "question": "Quel est le nom du lieu de largage initial (bus de combat) dans la première partie d'une partie de Fortnite ?",
+        "choix": [
+            "Battle Bus",
+            "Glide Bus",
+            "Aerial Transporter",
+            "Skyliner"
+        ],
+        "joker":[1,3],
+        "reponse": 0
+    },
+    {
+        "question": "Toute phases confondues, combien y a t-il de personnages jouables dans Final Fantasy VIII",
+        "choix": [
+            "6",
+            "8",
+            "10",
+            "11"
+        ],
+        "joker":[1,2],
+        "reponse": 3,
+        "info": "list:Squall/Lineoa/Quistis/Zell/Irvine/Selphie/Laguna/Kiros/Ward/Seifer (dans l'assault de dollet)/Edea(Lunatic Pandora)"
+    },
+    {
+        "question": "Dans le jeu Pokemon Or combien de créatures apparaîssent",
+        "choix": [
+            "150",
+            "175",
+            "250",
+            "251"
+        ],
+        "joker":[1,2],
+        "reponse": 3
+    },
+    {
+        "question": "Dans le jeu Pokemon Jaune, en plus de Mew et Pikachu combien de créatures apparaîssent",
+        "choix": [
+            "148",
+            "149",
+            "150",
+            "151"
+        ],
+        "joker":[0,2],
+        "reponse": 1,
+        "info": "il y a 151 pokemon donc 149 + mew + pikachu = 151"
+    },
+    {
+        "question": "Lequel de ces jeux n'est pas un jeu EPIC GAMES",
+        "choix": [
+            "Jill of the jungle",
+            "Jazz JackRabit",
+            "Duke Nukem",
+            "Fortnite"
+        ],
+        "reponse": 2,
+        "info": "Duke Nukem est un jeu ID Software Apogee"
+    },
+    {
+        "question": "Jusqu'en 1996, combien de titres Final Fantasy sont apparus toutes plateformes confondues",
+        "choix": [
+            "6",
+            "7",
+            "10",
+            "11"
+        ],
+        "reponse": 3,
+        "info": "list:Final Fantasy (1987)/Final Fantasy II (1988)/Final Fantasy III (1990)/Final Fantasy IV (1991)/Final Fantasy V (1992)/Final Fantasy VI (1994)/Final Fantasy Mystic Quest (1992)/Final Fantasy Adventure (1991)/Final Fantasy Legend (SaGa) (1989)/Final Fantasy Legend II (SaGa 2) (1990)/Final Fantasy Legend III (SaGa 3) (1991)"
+    },
+    {
+        "question": "Dans le speedRun de Zelda Ocarina of Time,lequel de ces glitchs consiste à frapper un adversaire sans avoir besoin de lever son épée",
+        "choix": [
+            "ISG",
+            "RBA",
+            "DTS",
+            "OOB"
+        ],
+        "reponse": 0,
+        "info": "Infinte Sword Glitch"
+    },
+    {
+        "question": "Lequel de ces jeux n'a pas été porté sur DOS",
+        "choix": [
+            "Super Mario Bros",
+            "Contra ",
+            "The Legend of Zelda",
+            "Double Dragon"
+        ],
+        "reponse": 2
+    },
+    {
+        "question": "Dans la saga de jeux Gabriel Knight, comment s'appelle le père du personnage éponyme",
+        "choix": [
+            "Peter",
+            "Phillip",
+            "Wolfgang",
+            "Harrison"
+        ],
+        "reponse": 1,
+        "info": "L'information est révèlée dans le chapitre 3"
+    },
+    {
+        "question": "Quelle invocation n'est pas commune entre Final Fantasy 6, Final Fantasy 7, ou Final Fantasy 8",
+        "choix": [
+            "Siren",
+            "Tritoch",
+            "Odin",
+            "Leviathan"
+        ],
+        "reponse": 1,
+        "info": "Siren apparaît dans FF6 et FF8, Odin FF7 et FF8, Leviathan FF6, FF8, FF7 mais Tritoch n'apparaît que dans FF6"
+    },
+    {
+        "question": "Dans le jeu Gabriel Knight Sin of Father, qui occupait le role de <i>chasseur d'ombre</i> avant Gabriel",
+        "choix": [
+            "Peter",
+            "Phillip",
+            "Wolfgang",
+            "Harrison"
+        ],
+        "reponse": 2,
+        "info": "Wolfgang est le grand oncle de Gabriel"
+    },
+    {
+        "question": "Dans la saga de jeux Gabriel Knight, quel nom donne t-on au gardien de la bibliothèque des ritter",
+        "choix": [
+            "ChättenYaggër",
+            "ShattënYäger",
+            "Schattenjäger",
+            "ChätenÏagger"
+        ],
+        "reponse": 2
+    },
+    {
+        "question": "Dans le premier jeu final fantasy, comment s'appelle la menace que les héros doivent affronter en fin de jeu",
+        "choix": [
+            "Astos",
+            "Garland",
+            "Tiamat",
+            "Kraken"
+        ],
+        "reponse": 1
+    },
+    {
+        "question": "Dans la saga des jeux Metal Gear Solid, quel est le prénom de Solid Snake",
+        "choix": [
+            "Jack",
+            "Eli",
+            "David",
+            "John"
+        ],
+        "reponse": 2,
+        "info": "On apprend son prénom dans une conversation radio avec Roy Campbell dans le jeu sortie en 1998 sur PS1"
+    },
+    {
+        "question": "Dans la saga des jeux Metal Gear Solid, quel était le nom de code de big boss",
+        "choix": [
+            "Naked Snake",
+            "Solid Snake",
+            "Venom Snake",
+            "Liquid Snake"
+        ],
+        "reponse": 0,
+        "info": "Le nom de code est connu dans Metal Gear Solid 3 snake eater"
+    },
+    {
+        "question": "Dans le jeu final fantasy VIII, quel personnage a l'aptitude de faire revivre aux protagonistes des moments du passé",
+        "choix": [
+            "Linoa",
+            "Edea",
+            "Elone",
+            "Ultimecia"
+        ],
+        "reponse": 2
+    },
+    {
+        "question": "Quelle série de jeux plateforme, développée par Nintendo commencée en 1986, voit-on se combiner les gameplay de Super Mario Bros et celui de Zelda ",
+        "choix": [
+            "Final fantasy",
+            "MetalGear",
+            "Castlevania",
+            "Metroid"
+        ],
+        "reponse": 3
+    },
+    {
+        "question": "Comment s'appelle le créateur / développeur du jeu <i>Prince of Persia</i> ?",
+        "choix": [
+            "Edmund McMillen",
+            "John Romero",
+            "Jordan Mechner",
+            "Peter Molyneux"
+        ],
+        "reponse": 2,
+        "info": "Le premier Prince of Persia est sortie en 1989 sur Apple II"
+    },
+    {
+        "question": "Comment s'appelle le créateur / développeur du jeu <i>The Binding of Isaac</i> ?",
+        "choix": [
+            "Edmund McMillen",
+            "John Romero",
+            "Jordan Mechner",
+            "Peter Molyneux"
+        ],
+        "reponse": 0,
+        "info": "Binding of Isaac est sortie le 28 septembre 2011 sur Steam, le gameplay et le design font référence à the Legend of Zelda"
+    },
+    {
+        "question": "Comment s'appelle le créateur / développeur du jeu <i>Populous</i> ?",
+        "choix": [
+            "John Romero",
+            "Jordan Mechner",
+            "Edmund McMillen",
+            "Peter Molyneux"
+        ],
+        "reponse": 3,
+        "info": "Populous est apparau en 1989 et édité par Electronic Arts et Bulfrog"
+    },
+    {
+        "question": "Quel terme dérivé de l'aviation designe le fait d'aider un joueur lors de sa partie ?",
+        "choix": [
+            "BackSeat",
+            "KissLanding",
+            "Kutsher",
+            "roll out"
+        ],
+        "reponse": 0,
+        "info": "le BackSeat designe en fait la place du moniteur qui peut prendre le contrôle de l'appareil à tout moment"
+    },
+    {
+        "question": "Quelle série de jeux vidéos développée par KONAMI, voit son personnage \"Solid Snake\"  déjouer des plans terroristes et désamorcer une arme mechanique",
+        "choix": [
+            "Castlevania",
+            "MetalGear",
+            "Suikoden",
+            "Silent Hill"
+        ],
+        "reponse": 1,
+        "info": "Le premier metal gear est sortie en 1987 sur MSX 2"
+    },
+    {
+        "question": "Quel jeu sortie en 1980, fait office de référence pour des jeux dont les donjons sont générés aléatoirement",
+        "choix": [
+            "Doom",
+            "Lode Runner",
+            "Rogue",
+            "Pac-Man"
+        ],
+        "reponse": 2
+    },
+    {
+        "question": "Quel jeu sortie en 1983, fait office de référence pour des jeux à vue subjective",
+        "choix": [
+            "Doom",
+            "Lode Runner",
+            "Rogue",
+            "Pac-Man"
+        ],
+        "reponse": 0
+    },
+    {
+        "question": "Quel terme designe le fait pour un joueur de haut niveau de créer un nouveau profil afin d'affronter des joueurs moins expérimentés",
+        "choix": [
+            "Nerfing",
+            "Morfing",
+            "Smurffing",
+            "Spoiling"
+        ],
+        "reponse": 2
+    },
+    {
+        "question": "Selon la timeline officielle de Zelda, quel jeu arrive immédiatement aprés Ocarina of Time dans l'“ère du héro victorieux adulte",
+        "choix": [
+            "Majora's mask",
+            "A Link to the Past",
+            "Wind Waker",
+            "Link's Awakening"
+        ],
+        "reponse": 2
+    },
+    {
+        "question": "Lequel de ces jeux n'a pas été adapté pour game and watch",
+        "choix": [
+            "Super Mario Bros",
+            "Splatoon",
+            "The Legend of Zelda",
+            "Donkey Kong"
+        ],
+        "reponse": 1
+    },
+    {
+        "question": "Quelle serie de jeux développée par Konami et initiée en 1986, trouve son inspiration dans un roman epistolaire de Bram Stoker",
+        "choix": [
+            "Castlevania",
+            "MetalGear",
+            "Sukoden",
+            "Silent Hill"
+        ],
+        "reponse": 0
+    }
+]

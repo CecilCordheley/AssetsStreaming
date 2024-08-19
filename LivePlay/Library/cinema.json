@@ -1,0 +1,257 @@
+[
+    {
+        "question": "Qui est le réalisateur du film Freak sortie en 1932?",
+        "choix": [
+            "F.W. Murnau",
+            "Tod Browning",
+            "Fritz Lang",
+            "Charlie Chaplin"
+        ],
+        "joker": [
+            0,
+            3
+        ],
+        "reponse": 1,
+        "info": "Freaks la parade monstrueuse est un film sortie en 1932 metant en scène des artistes issus du Barnum Museum"
+    },
+    {
+        "question": "Dans le film <i>Pulp Fiction</i> comment s'appelle le truand à qui rendent visite Jule et Vincent au début du film",
+        "choix": [
+            "Ringo",
+            "Brett",
+            "Roger",
+            "Marvin"
+        ],
+        "reponse": 1
+    },
+    {
+        "question": "Dans le film <i>Pulp Fiction</i> qui offre la montre en or à Butch",
+        "choix": [
+            "Capitaine Koons",
+            "Lieutenant Coolidge",
+            "Marcellus",
+            "Fabienne"
+        ],
+        "reponse": 0
+    },
+    {
+        "question": "En quelle année est sortie le film <i>Reservoir Dog</i> ?",
+        "choix": [
+            "1992",
+            "1993",
+            "1994",
+            "1995"
+        ],
+        "reponse": 0
+    },
+    {
+        "question": "Dans le film <i>Reservoir Dog</i>, qui incarne M. Brown ?",
+        "choix": [
+            "Harvey Keitel",
+            "Michael Madsen",
+            "Edward Bunker",
+            "Quentin Tarantino"
+        ],
+        "reponse": 3
+    },
+    {
+        "question": "Dans le film <i>Reservoir Dog</i>, quel duo arrive en premier dans l'entrepot ?",
+        "choix": [
+            "M. White et M. Orange",
+            "M. Brown et M. Pink",
+            "M. Blonde et M. Blue",
+            "M. Brown et M. Blonde"
+        ],
+        "reponse": 0
+    },
+    {
+        "question": "Dans le film <i>Reservoir Dog</i>, Comment s'appelle M. Orange ?",
+        "choix": [
+            "Larry",
+            "Joe",
+            "Freddy",
+            "Eddie"
+        ],
+        "reponse": 2
+    },
+    {
+        "question": "En quelle année est sortie le film original <i>Cube</i> ?",
+        "choix": [
+            "1992",
+            "1995",
+            "2002",
+            "2007"
+        ],
+        "reponse": 0
+    },
+    {
+        "question": "Dans le film <i>Cube</i> Comment s'appelle le policier ?",
+        "choix": [
+            "Vincent",
+            "Quentin",
+            "Kazan",
+            "Holloway"
+        ],
+        "reponse": 1
+    },
+    {
+        "question": "Dans le film <i>Cube</i>, Quel personnage parvient à sortir du cube ?",
+        "choix": [
+            "Worth",
+            "Quentin",
+            "Kazan",
+            "Leaven"
+        ],
+        "reponse": 2
+    },
+    {
+        "question": "Dans le film <i>Cube</i>, Comment s'appelle l'expert en évasion ?",
+        "choix": [
+            "Worth",
+            "Rennes",
+            "Kazan",
+            "Leaven"
+        ],
+        "reponse": 1
+    },{
+        "question": "Quel est le point commun entre le film <i>Grimlins</i> et <i>retour vers le future</i>",
+        "choix": [
+            "La voiture",
+            "Le réalisateur",
+            "La place de l'hotel de ville",
+            "Le premier rôle feminin"
+        ],
+        "reponse": 2,
+        "info": "Les deux films on été tournés dans le même studio donc on la même place d'hotel de ville"
+    },{
+        "question": "La quelle de ces règles n'est pas une des règles du film Grimlins",
+        "choix": [
+            "Le tenir éloigner de l'eau",
+            "Ne pas le laisser regarder la télé",
+            "Ne pas le nourrir avant minuit",
+            "Ne jamais l'exposer à la lumière"
+        ],
+        "reponse": 1
+    },
+    {
+        "question": "Qui a réalisé le Film Dune de 1984",
+        "choix": [
+            "David Linch",
+            "Alejandro Jodorosky",
+            "Ridley Scott",
+            "George Lucas"
+        ],
+        "joker": [
+            1,
+            3
+        ],
+        "reponse": 0,
+        "info": "Le projet \"dune\" d'après le livre de Frank Herbet a été proposé à de nombreux réalisateurs"
+    },{
+        "question": "Comment s'appelle le boutiquier qui vend Gismo dans le film <i>Grimlins</i>",
+        "choix": [
+            "M. Wang",
+            "M. Wing",
+            "M. Wung",
+            "M. Wang"
+        ],
+        "reponse": 1
+    },{
+        "question": "Qui a réalisé le film <i>Ne nous fachons pas</i> avec Lino Ventura",
+        "choix": [
+            "Georges Lautner",
+            "Jacques Loiseleux",
+            "Michel Audiard",
+            "Jean-Pierre Mocky"
+        ],
+        "reponse": 0
+    },
+    {
+        "question": "Combien y a t-il eu de réalisateurs pour les films Harry Potter",
+        "choix": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "joker": [
+            1,
+            3
+        ],
+        "reponse": 2,
+        "info": "list:Chris Columbus/Alfonso Cuarón/Mike Newell/David Yates"
+    },
+    {
+        "question": "En quelle année est sortie le film \"autant en emporte le vent\"",
+        "choix": [
+            1936,
+            1937,
+            1938,
+            1939
+        ],
+        "joker": [
+            0,
+            1
+        ],
+        "reponse": 3
+    },
+    {
+        "question": "Qui réalise le film \"l'empire contre attaque\"",
+        "choix": [
+            "George Lucas",
+            "Irvin Kershner",
+            "Ridley Scott",
+            "Alejandro Jodorosky"
+        ],
+        "joker": [
+            2,
+            3
+        ],
+        "reponse": 1
+    },
+    {
+        "question": "Qui interprète le role titre dans le film Rocky Horror Picture Show",
+        "choix": [
+            "Tim Curry",
+            "Peter Hinwood",
+            "Richard O'Brien",
+            "Barry Bostwick"
+        ],
+        "joker": [
+            2,
+            3
+        ],
+        "reponse": 1,
+        "info": "C'est Peter HinWood qui incarne \"Rocky Horror\" mais c'est Tim Curry qui prend le role principal \"D<sup>r</sup> Frank-N-Furter\""
+    },
+    {
+        "question": "En quelle année est sortie le film <i>Blade Runner</i> ?",
+        "choix": [
+            "1981",
+            "1982",
+            "1983",
+            "1984"
+        ],
+        "reponse": 1
+    },
+    {
+        "question": "Quand se déroulent les événements du film <i>Blade Runner</i> ?",
+        "choix": [
+            "2010",
+            "2012",
+            "2015",
+            "2019"
+        ],
+        "reponse": 3
+    },{
+        "question":"Dans le film <i>Blade Runner</i> Quel est le nom du test permetant de detecter les replicants",
+        "choix":["test de Turing","test de Voight-Kampff","test de Goostman","test de Kamski"],
+        "reponse":1
+    },{
+        "question":"Quel replicant est abattu avant Roy dans le film <i>Blade Runner</i> ?",
+        "choix":[
+            "Pris","Rachel","Leon","Zhora"
+        ],
+        "reponse":0
+    }
+]

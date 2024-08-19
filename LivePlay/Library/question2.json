@@ -1,0 +1,171 @@
+[
+    
+    {
+        "question":"Quel est le nom du lieu de largage initial dans la première partie d'une partie de Fortnite ?",
+        "choix":[
+            "Battle Bus","Glide Bus","Aerial Transporter","Skyliner"
+        ],
+        "reponse":0
+    },{
+        "question":"Comment s'appelle le script permettant de faire tourner les jeu Point and Clic tel que Maniac Mansion",
+        "choix":[
+            "SCUM","SCUMM","SKUMM","SKUM"
+        ],
+        "reponse":1
+    }, {
+        "question":"Le quel de ces boss n'est pas commun entre Metroid et Super Metroid",
+        "choix":[
+            "Ridley","Kraid","Phantoon","Mother Brain"
+        ],
+        "reponse":2
+    }, {
+        "question":"Qui est à l'origine du jeu Final Fantasy",
+        "choix":[
+            "Yoshio Sakamoto","Hironobu Sakaguchi","Shigeru Miyamoto","Tōru Iwatani"
+        ],
+        "reponse":1
+    },{
+        "question":"Lequel de ces jeux NES n'a pas était adapté pour Master System",
+        "choix":[
+            "Double Dragon", "Duck Hunt", "GostBuster", "Lemings"
+        ],
+        "reponse":1,
+        "info":"<i>Duck Hunt</i> est une licence spécifique de la nintendo"
+    },
+    {
+        "question":"Dans le jeu Pokemon Or combien de créatures apparaîssent",
+        "choix":[
+            "150","175","250","251"
+        ],
+        "reponse":3
+    },{
+        "question": "Dans la saga de jeux Gabriel Knight, comment s'appelle le grand père du personnage éponyme",
+        "choix": [
+            "Peter", "Phillip", "Wolfgang", "Harrison"
+        ],
+        "reponse": 3
+    },
+    {
+        "question":"Dans le jeu Gabriel Knight \"sins of the fathers\", quel comédien n'incarne pas de voix dans le jeu",
+        "choix":[
+            "TIm Curry","Mark Hamill","James Earl Jones","Michael Dorn"
+        ],
+        "reponse":2
+    },{
+        "question":" dans le jeu Final Fantasy 6, en dehors de ceux qui sont temporaires, combien de personnages peut-on contrôler",
+        "choix":[
+            14,15,16,17
+        ],
+        "reponse":0
+    },{
+        "question":"Dans le jeu Final Fantasy 7, combien de matérias d'invocation peuvent être récupérées",
+        "choix":[
+            14,15,16,17
+        ],
+        "reponse":2
+    },{
+        "question":"Dans le jeu Final Fantasy 7, combien d'armes peut-on affronter au total à partir du CD2",
+        "choix":[
+            5,9,11,13
+        ],
+        "reponse":1
+    },{
+        "question":"Lequel de ces jeux n'a pas eu d'adaptation cinéma avant 1996",
+        "choix":[
+            "Super Mario Bross","Double Dragon","Tomb raider","Mortal Kombat"
+        ],
+        "reponse":2
+    },{
+        "question":"Jusqu'à 2001, combien de jeux Mega Man de la série dite \"classique\" sont apparus",
+        "choix":[
+            9,10,11,12
+        ],
+        "reponse":1
+    },{
+        "question":"Dans le jeu Phantasmagoria, comment s'appelle le personnage principal",
+        "choix":["Adrianne","Adrienne","Adrielle","Adria"],
+        "reponse":1
+    },{
+        "question":"Dans le jeu Phantasmagoria, comment s'appelle l'antagoniste du jeu",
+        "choix":["Zoltran","Zordan","Zoltan","Zoldran"],
+        "reponse":2
+    },{
+        "question":"Quel est le sous-titre original (anglais) du jeu Phantasmagoria 2",
+        "choix":["Fatal Obsession","A Puzzle of Flesh","The flesh and the fear","Story of the flesh"],
+        "reponse":1
+    },{
+        "question":"Dans le jeu Phantasmagoria 2, comment s'appelle la compagnie pour laquelle le personnage principal travaille",
+        "choix":["Wyntech","WinTeck","WynTeck","WinTech"],
+        "reponse":0
+    }, {
+        "question": "Dans quel jeu, sorti en 1999, incarne t-on Harry Mason qui cherche sa fille Cheryl et est aidé par Cybil",
+        "choix": [
+            "Castlevania", "MetalGear", "Suikoden", "Silent Hill"
+        ],
+        "reponse": 3
+    },{
+        "question":"Quelle série de jeux est inspirée du roman \"Au bord de l'eau\"",
+        "choix":[
+            "Castlevania", "MetalGear", "Suikoden", "Silent Hill"
+        ],
+        "reponse":2
+    },
+    {
+        "question": "Quelle société de jeux vidéos est à l'origine de titres tels que Wolfenstein 3D, BioMenace ou encore DukeNukem",
+        "choix": [
+            "Rare", "Apogee", "Sierra", "Attari"
+        ],
+        "reponse": 1
+    },
+    {
+        "question": "Quelle société de jeux vidéos, spécialisée dans les jeux d'aventures, a été fondée par le couple Ken et Roberta Williams",
+        "choix": [
+            "Rare", "Apogee", "Sierra", "ID Software"
+        ],
+        "info":"Sierra a été en charge du développement de Gabriel Knight et de Incredible Machine",
+        "reponse": 2
+    },
+    {
+        "question": "Quel terme designe une attaque d'un joueur par plusieurs autres adversaires",
+        "choix": [
+            "Nerf", "Aggro",  "Boss rush", "Burst"
+        ],
+        "reponse":1
+    },{
+        "question":"Lequel de ces jeux n'a pas été développé par SNK",
+        "choix":[
+            "King Of Fighters","Fatal Fury","Street of Rage","Metal Slug"
+        ],
+        "reponse":2
+    },{
+        "question":"Jusqu'en 1998 et en cumulant toute les versions du jeu, combien y a t-il eu de robots du type metal Gear dans la saga éponyme",
+        "choix":[
+            3,4,5,6
+        ],
+        "reponse":1
+    },{
+        "question":"Lequel de ces jeux n'est pas un Rail Shooter",
+        "choix":[
+            "House of the Dead","Time Crisis","Star Fox 64","Alone in the Dark"
+        ],
+        "reponse":3
+    },{
+        "question": "Dans le premier jeu final fantasy, comment s'appelle le premier boss que les héros doivent affronter",
+        "choix": [
+            "Astos", "Tiamat", "Kraken", "Garland"
+        ],
+        "reponse": 3
+    },{
+        "question": "Dans le jeu final fantasy 7, comment s'appelle la mère biologique d'Aeris",
+        "choix": [
+            "Elmyra", "Lucrecia", "Ifalna", "Eléonore"
+        ],
+        "reponse": 2
+    },{
+        "question": "Dans la saga de jeu street of rage, lequel de ces personnages n'est pas jouable dans le 3<sup>ième</sup> opus",
+        "choix": [
+            "Adam", "Ash", "Axel", "Blaze"
+        ],
+        "reponse": 0
+    }
+]

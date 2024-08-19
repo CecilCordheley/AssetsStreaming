@@ -1,0 +1,172 @@
+[
+    {
+        "question":"Quelle année a marqué le lancement du premier jeu <i>FIFA</i>",
+        "choix":[
+            "1992","1993","1994","1995"
+        ],
+        "reponse":0
+    },{
+        "question":"Quel virus est à l'origine de l'épidémie zombie dans la série <i>Resident Evil</i>?",
+        "choix":["Virus Z","Virus B","Virus T","Virus Apocalypse"],
+        "reponse":2
+    }, {
+        "question": "Selon la timeline officielle de Zelda, quel jeu arrive immédiatement aprés <i>Ocarina of Time</i> dans l'“ère du héro victorieux jeune”",
+        "choix": [
+            "Majora's mask",
+            "A Link to the Past",
+            "Wind Waker",
+            "Link's Awakening"
+        ],
+        "reponse": 0
+    },{
+        "question":"Quel Pokemon ne peut-on pas obtenir dans <i>Pokemon Jaune</i>?",
+        "choix":["Steelix","Onix","Ferosinge","Mewtwo"],
+        "reponse":0,
+        "info":"Steelix n'apparaît qu'à partir de la version Or du jeu"
+    },{
+        "question":"Jusque “Sons of Liberty”, combien y a t-il eu de models de robots de type Metal Gear dans la saga eponyme",
+        "choix":[
+            3,4,5,6
+        ],
+        "reponse":1,
+        "info":"liste:Metal Gear TX-55/Metal Gear D/Metal Gear REX/Metal Gear RAY"
+    },{
+        "question":"Lequel de ces jeux n'a pas été publié <i>apogee</i>",
+        "choix":[
+            "Commander Keen","Duke Nukem","DOOM ","Wolfenstein 3D"
+        ],
+        "reponse":2
+    },{
+        "question":"lequel de ces personnages n'est pas jouable dans les 3 premier opus de la saga <i>street of rage</i>",
+        "choix":[
+            "Adam","Axel","Cherry","Max"
+        ],
+        "reponse":1,
+        "info":"Adam est jouable dans le 1, Axel est jouable dans les 3 et Max est jouable dans le 2"
+    },{
+        "question":"Dans le jeu <i>Street of Rage</i> sortie en 1991 quel nom porte le premier Round",
+        "choix":[
+            "Inner City","Freight Elevator","City Street","Beachfront"
+        ],
+        "reponse":2
+    },{
+        "question":"lequel de ces jobs n'est pas obtenu avec le cristal du vent dans <i>Final Fantasy V</i>",
+        "choix":[
+            "Mage Bleu","Mage Rouge","Moine","Chevalier"
+        ],
+        "reponse":1,
+        "info":"Le cristal du vent débloque les jobs de Chevalier, Moine, Voleur, Mage Bleu, Mage Blanc et Mage Noir"
+    },{
+        "question":"Au début du jeu <i>Final Fantasy II</i> dans quelle ville se situe le airship",
+        "choix":[
+            "Paloom","Poft","Altair","Mysidia"
+        ],
+        "reponse":1,
+        "info":"C'est dans la ville de “Poft” que <i>Cid</i> a établit son commerce de transport"
+    },{
+        "question":"Quel est le sous titre de <i>Castlevania 3</i>",
+        "choix":[
+            "Dracula's Curse",
+            "Dracula's Revenge",
+            "Curse of Darkness",
+            "Shadow of Revenge"
+        ],
+        "reponse":0
+    },{
+        "question":"En quelle année est sortie le jeu <i>Super Castlevania</i> en Europe",
+        "choix":[
+            "1991",
+            "1992",
+            "1993",
+            "1994"
+        ],
+        "reponse":1
+    },{
+        "question":"En quelle année est sortie le 3<sup>ème</sup> opus de la Saga Gabriel Kinght",
+        "choix":[
+            "1995","1996","1998","1999"
+        ],
+        "reponse":3
+    },{
+        "question": "Comment s'appelle le concepteur du jeu <i>Alone in the Dar</i> ?",
+        "choix": [
+            "John Romero",
+            "Jordan Mechner",
+            "Edmund McMillen",
+            "Frédérick Raynal"
+        ],
+        "reponse": 3,
+        "info": "Populous est apparau en 1989 et édité par Electronic Arts et Bulfrog"
+    },{
+        "question":"Lequel de ces personnage n'apparaît pas dans le jeu <i>Resident Evil</i> 1",
+        "choix":[
+            "Barry Burton",
+            "Chris Redfield",
+            "Leon Scott Kennedy",
+            "Jill Valentine"
+        ],
+        "reponse":2
+    },{
+        "question":"Quel est le surnom du protagonsite masculain du jeu <i>Alone In The Dark</i> sortie en 1992",
+        "choix":[
+            "Le Cobra",
+            "Le Furet",
+            "Le Reptile",
+            "Le Renard"
+        ],
+        "reponse":2
+    },
+    {
+        "question":"Combien de  temps c'est écoulé entre le 1<sup>er</sup> <i>Castlevania</i> et <i>Castlevania II Simon's Quest</i> ?",
+        "choix":[
+             "2 ans", "7 ans", "7 jours","1 jour"
+        ],
+        "reponse":1
+    },
+    {
+        "question":"Parmis les personnages jouables dans <i>Castlevania 3</i>, lequel peut grimper sur les murs et les plafonds ?",
+        "choix":[
+             "Trevors Belmont", "Sypha Belnades", "Grant Danasty","Alucard "
+        ],
+        "reponse":2
+    },{
+        "question":"Dans le jeux <i>Final fantasy VIII</i>, comment s'appelle la limite break de Seifer",
+        "choix":[
+           "Renzokuken","Fire Blade", "Fire Cross","Ring Master"
+        ],
+        "reponse":2
+    },  {
+        "question":"En comptant les G-Forces dites “Speciales”, combien y at-il d'invocations dans le Jeu <i>Final fantasy 8</i>",
+        "choix":[
+           "8","16", "18","22"
+        ],
+        "reponse":2
+    },{
+        "question":"Lequel de ces jeux n'est pas un jeu SNK",
+        "choix":[
+            "Fatal Fury 2","Final Fight","Samurai Shodown","Andro Dunos"
+        ],
+        "reponse":1,
+        "info":"Final Fight est un jeu CAPCOM"
+    },{
+        "question":"Quel compositeur a co-signé la Bande Original du jeu <i>Metal Gear Solid 2</i>",
+        "choix":[
+            "James Horner","Jermie Soule","Harry Gregson-Williams","Christophe Heral"
+        ],
+        "reponse":2
+    },{
+        "question":"Quel personnage ne s'évanouit pas lors de la deuxième phase de rêve souvenir d'Ellone dans <i>Final Fantasy 8</i>",
+        "choix":[
+            "Squall", "Selphie","Quistis","Linoa"
+        ],
+        "reponse":3
+    },{
+        "question":"Pour quel support le jeu <i>Rayman</i> a t-il été conçu initialement",
+        "choix":[
+            "PlayStation", "Saturn","Jaggar","MS DOS"
+        ],
+        "reponse":2,
+        "info":"Le jeu avait été conçu pour sortir sur Jaggar initialement, mais des retards de développement l'on contrain à sortir sur PlayStation"
+    }
+    
+]

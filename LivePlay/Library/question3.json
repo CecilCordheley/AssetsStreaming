@@ -1,0 +1,140 @@
+[
+     {
+        "question":"Dans le jeu Super Metroïd sortie sur SNES quel est le dernier boss que samus aran doit afronter",
+        "choix":[
+            "Kraid","Draygon","Ridley","Mother Brain"
+        ],
+        "reponse":3
+    },{
+        "question":"Laquelle de ces invocations n'apparaît pas de Final Fantasy 8",
+        "choix":[
+            "Bahamut","Odin","Shiva","Ramuh"
+        ],
+        "reponse":3,
+        "info":"C'est Golgotha ou quetzalcoatl qui fait office d'invocation de foudre dans FF8"
+    },{
+        "question":"Quel personnage emblématique de la série Castlevania est généralement considéré comme le principal protagoniste ?",
+        "choix":[
+           "Juste Belmont","Richter Belmont","Simon Belmont","Trevor Belmont"
+        ],
+        "reponse":2,
+        "info":"Il apparaît dès le premier opus de la Saga"
+    },{
+        "question":"Comment s'appelle le créateur / développeur du jeu <i>The Binding of Isaac</i> ?",
+        "choix":[
+             "John Romero", "Jordan Mechner", "Edmund McMillen","Peter Molyneux"
+        ],
+        "reponse":2
+    },{
+        "question":"Quel est le premier boss “Elemental” que l'on affronte dans le jeu Final Fantasy IV",
+        "choix":[
+            "Cagnazzo","Barbariccia","Scarmiglione","Rubicante"
+        ],
+        "reponse":2
+    },{
+        "question":"Quel est le premier FPS sortie immédiatement après <i>Doom 2</i>",
+        "choix":[
+            "Doom 3","Duke Nukem","Heretic","Final Doom"
+        ],
+        "reponse":2
+    },{
+        "question":"Lequel de ces jeux n'est pas un jeu Lucasart",
+        "choix":[
+            "Grim Fandango","Monkey Island","StarWars","Maniac Mansion"
+        ],
+        "reponse":2,
+        "info":"la licence des jeux Star Wars a été confiée à Attari donc star wars n'est pas un jeu LucasArt"
+    },{
+        "question":"Dans quel jeu de la saga final fantasy apparaîssent pour la première fois Biggs et Wedge",
+        "choix":[
+            "Final Fantasy IV","Final fantasy V","Final Fantasy VI","Final Fantasy VII"
+        ],
+        "reponse":3
+    },{
+        "question":"Dans quel jeu de la saga Final Fantasy Gilgamesh n'apparaît pas",
+        "choix":[
+            "Final Fantasy V","Final Fantasy VII","Final fantasy VIII","Final Fantasy IX"
+        ],
+        "reponse":1
+    },{
+        "question":"Dans le jeu Final Fantasy 7 (PlayStation), comment s'appelle l'arme ultime de Tifa",
+        "choix":[
+            "Power Gloves","Fatal Gloves","Power Soul","Final Soul"
+        ],
+        "reponse":2
+    }, {
+        "question":"Dans le jeu Super Metroïd sortie sur SNES quel est le premier boss que samus aran doit afronter",
+        "choix":[
+            "Kraid","Draygon","Ridley","Mother Brain"
+        ],
+        "reponse":2
+    },{
+        "question":"Lequel de ces jeux n'utilise pas le SCUMM comme moteur",
+        "choix":[
+            "Maniac Mansion","Indiana Jones and the last crusade","Monkey Island","Broken Sword"
+        ],
+        "reponse":3
+    },{
+        "question":"Dans le jeu Final Fantasy 4 combien y a t-il de personnages jouables",
+        "choix":[
+            8,9,10,11
+        ],
+        "reponse":3
+    },{
+        "question":"Lequel de ces boss n'est pas commun entre Metroid et Super Metroid",
+        "choix":[
+            "Ridley","Kraid","Phantoon","Mother Brain"
+        ],
+        "reponse":2
+    }, {
+        "question":"Dans le jeu Zelda “Ocarina of Time”, sous quel nom s'est déguisée la princesse lorsque Link voyage dans le future",
+        "choix":[
+            "Koume","Kotate","Sheik","Navi"
+        ],
+        "reponse":2
+    }, {
+        "question":"Selon la timeline officielle de Zelda, quel jeu arrive immédiatement aprés Ocarina of Time dans l'“ère du héro vaincu”",
+        "choix":[
+            "Majora's mask","A Link to the Past","Wind Waker","Link's Awakening"
+        ],
+        "reponse":1
+    }, {
+        "question":"Dans la saga Metroïd, quelle civilisation confère à l'héroïne son “<i>Costume de Puissance</i>” ",
+        "choix":[
+            "Les Chozhos","Les Chozzos","Les Chozos","Les Chohzos"
+        ],
+        "reponse":2
+    }, {
+        "question":"Quelle année a marqué le lancement du premier jeu FIFA",
+        "choix":[
+            "1992","1993","1994","1995"
+        ],
+        "reponse":0
+    }, {
+        "question":"Quelle société de jeux vidéos s'est spécialisée dans les simulations des disciplines sportives",
+        "choix":[
+            "Eidos","SEGA","Electronic arts","Apogee"
+        ],
+        "reponse":2
+    },{
+        "question":"Quelle catégorie de jeux au gameplay non linéaire fait appelle à la créativité des joueurs",
+        "choix":[
+            "Stealth Game", "RPG", "FPS", "SandBox Game"
+        ],
+        "reponse":3
+    },{
+        "question":"Lequel de ces jeux est sortie le premier",
+        "choix":[
+            "Sonic the Hedgehog", "Super Mario Kart", "Kirby's Dream Land", "Street Fighter II: The World Warrior"
+        ],
+        "reponse":0,
+        "info":"<i>Sonic the Hedgehog</i> est sorti en juin 1991"
+    },{
+        "question":"Lequel de ces jeux NES n'a pas était adapté pour Master System",
+        "choix":[
+            "Addams Family", "Hero of the Lance", "Altered Beast", "Punch-Out"
+        ],
+        "reponse":3,
+        "info":"<i>Punch out </i> est une licence spécifique de la nintendo"
+    }
+]

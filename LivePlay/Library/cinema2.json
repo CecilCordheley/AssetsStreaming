@@ -1,0 +1,45 @@
+[
+    {
+        "question": "Qui a réalisé le Film <i>L'empire contre attaque</i>",
+        "choix": [
+            "Georges Lucas",
+            "Irvin Keshner",
+            "Joe Johnston",
+            "Steven Spielberg"
+        ],
+        "joker": [
+            0,
+            3
+        ],
+        "reponse": 1
+    },
+    {
+        "question": "Lequel de ces acteurs n'a pas joué dans le film <i>la Haine</i>",
+        "choix": [
+            "Mathieu Kassovitz",
+            "Vincent Cassel",
+            "Benoît Magimel",
+            "Guillaume Canet"
+        ],
+        "reponse": 3
+    },
+    {
+        "question": "Qui a réalisé le film <i>les promesses de L'ombre</i>",
+        "choix": [
+            "David Lynch",
+            "David Cronenberg",
+            "Michael Haneke",
+            "Lars von Trier"
+        ]
+    },
+    {
+        "question": "Lequel de ces acteurs ou actrices n'a pas joué dans les deux films <i>Charlie et la chocolaterie<i/> et <i>Sweeney Todd</i>",
+        "choix": [
+            "Johnny Depp",
+            "Julia Winter",
+            "Helena Bonham Carter",
+            "Christopher Lee"
+        ],
+        "reponse":1
+    }
+]

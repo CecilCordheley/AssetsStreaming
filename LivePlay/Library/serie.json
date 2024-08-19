@@ -1,0 +1,272 @@
+[
+    {
+        "question": "Qui a créé la série <i>La petite maison dans la prairie</i> ?",
+        "choix": [
+            "Richard Bull",
+            "Michael Landon",
+            "Linwood Boomer",
+            "Jason Bateman"
+        ],
+        "reponse": 1,
+        "info":"Information de la question"
+    },
+    {
+        "question": "En quelle année est sortie <i>la petite maison dans la prairie</i> ?",
+        "choix": [
+            "1972",
+            "1973",
+            "1974",
+            "1975"
+        ],
+        "reponse": 2,
+        "info":"Information de la question"
+    },
+    {
+        "question": "Qui interprète Samantha Stephen dans la série <i>Ma sorcière bien-aimée</i> ?",
+        "choix": [
+            "Agnes Moorehead",
+            "Elisabeth Welch",
+            "Elizabeth Taylor",
+            "Elizabeth Montgomery"
+        ],
+        "reponse": 3,
+        "info":"Information de la question"
+        
+    },
+    {
+        "question": "Dans la série Starsky et Hutch, qui intérprétait Kenneth Hutchinson dit Hutch",
+        "choix": [
+            "Antonio Fargas",
+            "David Soul",
+            "Bernie Hamilton",
+            "Paul Michael Glaser"
+        ],
+        "reponse": 1,
+        "joker": [
+            0,
+            2
+        ]
+    },
+    {
+        "question": "En quelle année est sortie la série <i>Starsky et Hutch</i> ?",
+        "choix": [
+            "1973",
+            "1974",
+            "1975",
+            "1976"
+        ],
+        "reponse": 2,
+        "joker": [
+            0,
+            3
+        ]
+    },
+    {
+        "question": "Dans quelle ville se déroule la série <i>Starsky et Hutch</i> ?",
+        "choix": [
+            "New York",
+            "Los Angeles",
+            "San Francisco",
+            "Anaheim"
+        ],
+        "reponse": 0,
+        "info":"Information de la question"
+    },
+    {
+        "question": "Dans <i>Starsky et Hutch</i>,de quel modèle est le véhicule des protagoniste ",
+        "choix": [
+            "Ford Gran Torino",
+            "Dodge Monaco",
+            "Lincoln Continental Mark IV",
+            "Plymouth Duster"
+        ],
+        "reponse": 0,
+        "joker": [
+            1,
+            2
+        ]
+    },
+    {
+        "question": "Comment s'appelle l'agence de publicité dans laquelle travaille Jean-Pierre Stephens",
+        "choix": [
+            "McMillan & Tate",
+            "Miyer & Tate",
+            "McMann & Tate",
+            "McMillan & Hilton"
+        ],
+        "reponse": 2,
+        "joker": [
+            0,
+            1
+        ]
+    },
+    {
+        "question": "Dans la série <i>Ma sorcière bien aimée</i> comment s'appelle la mère de samantha",
+        "choix": [
+            "Tabatha",
+            "Endora",
+            "Clara",
+            "Gladys"
+        ],
+        "reponse": 1,
+        "info":"Information de la question"
+    },
+    {
+        "question": "quel acteur ou quelle actrice de la série Prison Break n'a pas joué de rôle dans Dr House",
+        "choix": [
+            "Robin Tunney",
+            "Wentworth Miller",
+            "Dominic Purcell",
+            "Robert Knepper"
+        ],
+        "reponse": 3,
+        "joker": [
+            1,
+            2
+        ]
+    },
+    {
+        "question": "quel acteur de la série Prison Break joue le rôle éponyme de la série John Doe",
+        "choix": [
+            "Peter Jacobson",
+            "Wentworth Miller",
+            "Dominic Purcell",
+            "Robert Knepper"
+        ],
+        "reponse": 2,
+        "joker": [
+            1,
+            3
+        ]
+    },
+    {
+        "question": "Quelle acteur de la série <i>Buffy Vampire Slayer</i> tient le rôle titre dans une série SpinOff ",
+        "choix": [
+            "Nicholas Brendon",
+            "Antony Steward Head",
+            "David Boreanaz",
+            "James Marsters"
+        ],
+        "reponse": 2,
+        "joker": [
+            0,
+            1
+        ]
+    },
+    {
+        "question": "Quelle acteur de la série <i>Buffy Vampire Slayer</i> tient également un rôle dans la série <i>Merlin</i> ",
+        "choix": [
+            "Nicholas Brendon",
+            "Antony Steward Head",
+            "David Boreanaz",
+            "James Marsters"
+        ],
+        "reponse": 1,
+        "joker": [
+            0,
+            2
+        ]
+    },
+    {
+        "question": "Dans quelle ville se déroule la série <i>Buffy Vampire Slayer</i>",
+        "choix": [
+            "Riverdale",
+            "Sunnydale",
+            "Rainydale",
+            "Winterdale"
+        ],
+        "reponse": 1,
+        "joker": [
+            0,
+            2
+        ]
+    },
+    {
+        "question": "Quel est le titre du premier épisode de la série buffy contre les vampires ?",
+        "choix": [
+            "Bienvenue à Sunnydale, partie 1",
+            "Bienvenue en enfer, partie 1",
+            "Un nouveau départ, partie 1",
+            "L'élue, partie 1"
+        ],
+        "reponse": 0,
+        "info":"Information de la question"
+    },
+    {
+        "question": "En quelle année est sortie la série <i>Sliders : Les mondes parallèles</i>",
+        "choix": [
+            "1995",
+            "1996",
+            "1997",
+            "1998"
+        ],
+        "reponse": 0,
+        "info":"Information de la question"
+    },
+    {
+        "question": "Quel acteur de la série Sliders joue également un Rôle dans Indiana Jones",
+        "choix": [
+            "Jerry O'Connell",
+            "Robert Floyd",
+            "John Rhys-Davies",
+            "Charlie O'Connell"
+        ],
+        "reponse": 2,
+        "info":"Information de la question"
+    },
+    {
+        "question": "Quel acteur joue le rôle principal à la fois dans <i>l'homme qui valait 3 milliard</i> et <i>l'homme qui tombe à pic</i>",
+        "choix": [
+            "Richard Anderson",
+            "Alan Oppenheimer",
+            "Lee Majors",
+            "Darren McGavin"
+        ],
+        "reponse": 2,
+        "info":"Information de la question"
+    },
+    {
+        "question": "Quel acteur de la série StarGate SG1 donne également la réplique à Richard Dean Anderson dans la série McGyver",
+        "choix": [
+            "Don S. Davis",
+            "Beau Bridges",
+            "Tony Amendola",
+            "Ronny Cox"
+        ],
+        "reponse": 0,
+        "info":"Information de la question"
+    },
+    {
+        "question": "Quel est le prénom de McGyver dans la série éponyme",
+        "choix": [
+            "Avery",
+            "Angus",
+            "Clint",
+            "Archibald"
+        ],
+        "reponse": 1,
+        "info":"Information de la question"
+    },
+    {
+        "question": "Comment s'appelle l'association pour laquelle travaille McGyver",
+        "choix": [
+            "Fondation Phoenix",
+            "ONU",
+            "Fondation Cristal",
+            "Marvels Association"
+        ],
+        "reponse": 0,
+        "info":"Information de la question"
+    },
+    {
+        "question": "Quel était le grade de Samantha Carter dans le premier épisode de StarGate SG1",
+        "choix": [
+            "Lieutenant Colonel",
+            "Capitaine",
+            "Major",
+            "Colonel"
+        ],
+        "reponse": 1,
+        "info":"Information de la question"
+    }
+]
