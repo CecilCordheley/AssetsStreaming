@@ -1,0 +1,148 @@
+[
+    {
+        "question": "Dans quel album de queen sortie en 1977 entend-t-on les titre We Will Rock You et We are the Champions",
+        "choix": [
+            "News of the World",
+            "A Night at the opera",
+            "Made In Heaven",
+            "A kind of magic"
+        ],
+        "reponse": 0
+    },{
+        "question":"Quel artiste de jazz connu pour son scat est l'interprète de Minnie de Moocher",
+        "choix":[
+            "Cab Calloway",
+            "Duke Ellington",
+            "Louis Armstrong",
+            "Count Basie"
+        ],
+        "reponse":0,
+        "media":"MinnieMoocher.wav"
+    },{
+        "question":"Quel jazzman et son orchéstre a intérprété pour la première fois <i>Take the A train</i>",
+        "choix":[
+            "Cab Calloway",
+            "Duke Ellington",
+            "Louis Armstrong",
+            "Count Basie"
+        ],
+        "reponse":1,
+        "media":"TakeATrain.wav"
+    },{
+        "question":"Quel groupe interprète le titre \"<i>Sunday Girl</i>\"",
+        "choix":[
+            "The Ramones",
+            "The Pretenders",
+            "For Non Blondes",
+            "Blondie"
+        ],
+        "reponse":3,
+        "media":"SundayGirl.wav",
+        "info":"La chanson apparaît avec l'album Parallel Lines"
+    },{
+        "question":"Quelle chanson interprété par Franky Valli a été reprise par Claude François ?",
+        "choix":[
+            "What a night",
+            "Sherry",
+            "Beggin",
+            "Ragg Doll"
+        ],
+        "reponse":0,
+        "media":"WhatANight.wav"
+    },{
+        "question":"Qui chante \"<i>I Love Rock 'n Roll</i>\" en 1975",
+        "choix":[
+            "The Ramones",
+            "The Arrows",
+            "Joan Jett & the blackhearts",
+            "Blondie"
+        ],
+        "reponse":1,
+        "media":"Arrows.wav",
+        "info":"Joan Jett a repris la chanson en 1981"
+    },{
+        "question":"Quel titre de l'album City of City est une référence à sherlock Holmes",
+        "choix":[
+            "Baker Street",
+            "Baskerville",
+            "The Valley of Fear",
+            "Study in Scarlet"
+        ],
+        "reponse":0,
+        "media":"baker.wav",
+        "info":"La partie saxo a été assurée par Raphael Ravenscroft"
+    },
+    {
+        "question": "Comment s'appelle le premier album des Beatles",
+        "choix": [
+            "Abbey Road",
+            "Let it Be",
+            "Please Please Me",
+            "Help!"
+        ],
+        "reponse": 2,
+        "info": "Please Please Me est sortie en 1963"
+    },
+    {
+        "question": "Qui interprète pour la première fois la version féminine de \"<i>Killing me Softly</i>\"",
+        "choix": [
+            "Nancy Sinatra",
+            "Anne Murray",
+            "Roberta Flack",
+            "Eva Cassidy"
+        ],
+        "reponse": 2,
+        "media":"RobertaFlack.wav",
+        "info":"Il existe 2 versions de cette musique, 1 version masculine, 1 version féminine"
+    },
+    {
+        "question": "Quel groupe interprète \"<i>Hang On Sloopy</i>\" en 1965",
+        "choix": [
+            "The Beatle",
+            "The McCoys",
+            "Herman's Hermits",
+            "The Byrds"
+        ],
+        "reponse": 1
+    },{
+        "question":"Comment s'appelle le premier titre du groupe <i>2be3</i>",
+        "choix":[
+            "2Be3","Partir un jour","magnolia forever","Toujours là pour toi"
+        ],
+        "reponse":1,
+        "media":"2be3.wav"
+    },
+    {
+        "question": "Quelle chanson interprètée par France Gall a été récompensée à l'Eurovision en 1965",
+        "choix": [
+            "Poupée de cire, poupée de son",
+            "Laisse tomber les fille",
+            "les sucettes",
+            "Baby bop"
+        ],
+        "reponse": 0,
+        "media":"poupeeCire.wav",
+        "info":"écrite et composée en 1965 par Serge Gainsbourg inspirée du 4ᵉ mouvement de la Sonate pour piano nᵒ 1 en fa mineur op.2-1 de Beethoven"
+    },
+    {
+        "question": "Quelle chanson de Sonny and Cher est diffusée au réveil du protagoniste dans le film <i>Un jour sans fin</i>",
+        "choix": [
+            "I got you Babe",
+            "Little Man",
+            "Just You",
+            "The Beat Goes On"
+        ],
+        "reponse": 0,
+        "media":"sonny.wav"
+    },
+    {
+        "question": "Quel oeuvre de Marc Twain sert de titre pour le groupe \"<i>Rush</i>\"",
+        "choix": [
+            "The Adventures of Tom Sawyer",
+            "Luck",
+            "A Dog Tale",
+            "A Tramp Abroad"
+        ],
+        "reponse": 0
+    }
+]

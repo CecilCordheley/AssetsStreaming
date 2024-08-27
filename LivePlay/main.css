@@ -21,7 +21,7 @@ box-sizing:border-box;font-family:Calibri;
     display: none;
 }
 #container{
-    width: 900px;
+    width: 950px;
     margin: 0 auto;
     display: flex;
     flex-wrap: wrap;
@@ -49,6 +49,7 @@ body{
 }
 #gain{
     width: 45%;
+    position: relative;
 }
 #chat{
     width: 245px;
@@ -86,6 +87,21 @@ body{
     align-self: baseline;
     border-radius: 7px;
     transition: .7s;
+}
+.compoment>[type=checkbox]{
+    display: none;
+}
+.compoment label:has(~ [type=checkbox]){
+    display: block;
+    padding: 5px;
+    background:var(--mainColor);
+    margin: 5px;
+    width: 75%;
+    transition: .7s;
+}
+.compoment label:has(~ [type=checkbox]):hover{
+    cursor: pointer;
+    background: #6f6fdf;
 }
 .questionElement section {
     width: 200px;
@@ -185,6 +201,9 @@ font-size: 1.3rem;
     font-size: 1.3rem;
     color: #FFF;
 }
+.questionElement ol li>span{
+    float:right;
+}
 .questionElement ol li.good {
     border: 3px solid #5F5;
     transform: scale(1.5);
@@ -215,23 +234,7 @@ font-size: 1.3rem;
     width: 1em;
     margin-left: -1em
 }
-.timer{
-    display: block;
-    width: 95%;
-    margin: 2px;
-    height: 10px;
-    border: 2px solid #222;
-    position: relative;
-}
 
-.timer span{
-    display: block;
-    width: 0%;
-    background:#335;
-    position: absolute;
-    height: 100%;
-    box-shadow: 0px 0px 10px #FF0;
-}
 .intro{
 position:fixed;
 width:100vw;
@@ -241,7 +244,7 @@ background:#3332;
 }
 .rules{
 width:450px;
-height:200px;
+height:275px;
 background:#FFF;
 position:absolute;
 left:40%;

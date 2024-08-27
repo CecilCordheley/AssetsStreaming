@@ -63,11 +63,19 @@ function openBot() {
         const command = args.shift().toLowerCase();
         if (command == "!rep" || command == "!vote") {
             if (canVote) {
+                console.log(config.canPlay,equal,tags.username,channel);
+                console.log((config.canPlay==false && equal==false && `#${tags.username}`==`${channel}`))
+                if(config.canPlay==false && equal==false && `#${tags.username}`==`${channel}`){
+                    
+                    client.say(channel, `/me ${tags.username} ne peut voter qu'en cas d'égalité`);
+                    return;
+                }
                 const vote = args[0].toUpperCase();
                 if (['A', 'B', 'C', 'D'].includes(vote)) {
                     if (votes[tags.username] == undefined) {
-                        console.dir(tags);
+                     //   console.dir(votes);
                         votes[tags.username] = vote;
+                        console.dir(votes);
                         cptVote++;
                         let cpt = document.querySelector('[data-val=' + vote + ']').innerHTML * 1;
                         cpt++;
@@ -80,9 +88,18 @@ function openBot() {
                     },3000);
                         document.querySelector('[data-val=' + vote + ']').innerHTML = cpt;
                         setPercent(vote);
+                       checkEqual();
                     }else{
                         client.say(channel, `/me ${tags.username} Vous avez déjà voter`);
                     }
+                }else{
+                    let message=[
+                        `/me ${tags.username} t'es un petit malin ?`,
+                        `/me ${tags.username} tu devrais essayer d'autres lettres on sait jamais`,
+                        `/me ${tags.username} amusant ${vote} c'est ni A ni B ni C ni D`
+                    ];
+                    let _i=getRandomInt(2);
+                    client.say(channel, message[_i]);
                 }
             } else {
                 client.say(channel, `/me ${tags.username} Vous ne pouvez pas encore voter`);

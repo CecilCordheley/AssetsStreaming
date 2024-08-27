@@ -14,6 +14,26 @@
         "reponse": 1
     },
     {
+        "question": "Quand est sortie le film Independance Day",
+        "choix": [
+            1995,
+            1996,
+            1997,
+            1998
+        ],
+        "reponse": 1
+    },
+    {
+        "question": "En quelle année est sortie le film original <i>Cube</i> ?",
+        "choix": [
+            "1997",
+            "1995",
+            "2002",
+            "2007"
+        ],
+        "reponse": 0
+    },
+    {
         "question": "Lequel de ces acteurs n'a pas joué dans le film <i>la Haine</i>",
         "choix": [
             "Mathieu Kassovitz",
@@ -40,6 +60,67 @@
             "Helena Bonham Carter",
             "Christopher Lee"
         ],
-        "reponse":1
+        "reponse": 1
+    },
+    {
+        "question": "Où se situe l'action de \"<i>Fenêtre sur cours</i>\" ?",
+        "choix": [
+            "West Village",
+            "Greenwich Village",
+            "Hell's Kitchen",
+            "East Village"
+        ],
+        "reponse": 1
+    },
+    {
+        "question": "Où se situe l'action de \"<i>Sueur Froide</i>\" ?",
+        "choix": [
+            "Chicago",
+            "New York",
+            "San Francisco",
+            "Philadelphie"
+        ],
+        "reponse": 2
+    },
+    {
+        "question": "Où se situe l'action de \"<i>Rocky</i>\" ?",
+        "choix": [
+            "Chicago",
+            "New York",
+            "San Francisco",
+            "Philadelphie"
+        ],
+        "reponse": 3
+    },
+    {
+        "question": "De quoi souffre le protagoniste de \"<i>Sueur Froide</i>\" ?",
+        "choix": [
+            "Agoraphobie",
+            "Cataptophobie",
+            "Acrophobie",
+            "Cenosillicaphobie"
+        ],
+        "reponse": 1,
+        "info": "la Cenosillicaphobie est la peur de se retrouver dans un verre vide. <br>Scottie lui est victime de Acrophobie (peur du vide) suite à une course poursuite sur les toits"
+    },
+    {
+        "question": "Qui Scottie doit suivre en filature dans le film \"<i>Sueur Froide</i>\"",
+        "choix": [
+            "Madeleine",
+            "Judy",
+            "Marjorie",
+            "Gavin"
+        ],
+        "reponse": 0
+    },{
+        "question":"Dans le film Rocky 3 qui Rocky affronte lors d'un match d'exibition",
+        "choix":[
+            "Spider Rico",
+            "Clubber Lang",
+            "Appolo Creed",
+            "Thunderlips"
+        ],
+        "reponse":3,
+        "info":"Thunderlips est interprété par Hulk Hogan"
     }
 ]

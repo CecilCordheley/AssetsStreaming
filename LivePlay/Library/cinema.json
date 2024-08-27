@@ -73,16 +73,16 @@
             "Eddie"
         ],
         "reponse": 2
-    },
-    {
-        "question": "En quelle année est sortie le film original <i>Cube</i> ?",
-        "choix": [
-            "1992",
-            "1995",
-            "2002",
-            "2007"
+    },{
+        "question":"Dans le film \"<i>Faut pas prendre les enfants du bon Dieu pour des canards sauvages</i>\" à qui Rita fait-elle appel pour récupérer l'argent qu'on lui a volé",
+        "choix":[
+            "Léontine",
+            "Charles",
+            "Fred",
+            "Raoul"
         ],
-        "reponse": 0
+        "reponse":0,
+        "info":"Raoult (<i>Incarné par Raoult saint Yves</i>)dévalise le fourgon, puis se fait doubler par Fred(<i>incarné par André Pousse</i>), qui se fait à son tour doublé par Rita (<i>Marlène Jobert</i>) et Charles(<i>Bernard Blier</i>) qui double Rita laquelle appelle ça tante Léontine (<i>Françoise Rosay</i>) pour récupérer l'argent"
     },
     {
         "question": "Dans le film <i>Cube</i> Comment s'appelle le policier ?",
@@ -153,7 +153,7 @@
             "M. Wang",
             "M. Wing",
             "M. Wung",
-            "M. Wang"
+            "M. Wong"
         ],
         "reponse": 1
     },{
@@ -179,7 +179,7 @@
             3
         ],
         "reponse": 2,
-        "info": "list:Chris Columbus/Alfonso Cuarón/Mike Newell/David Yates"
+        "info": "list:Chris Columbus|Alfonso Cuarón|Mike Newell|David Yates"
     },
     {
         "question": "En quelle année est sortie le film \"autant en emporte le vent\"",

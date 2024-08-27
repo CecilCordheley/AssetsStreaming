@@ -10,28 +10,23 @@
         "joker":[1,3],
         "reponse": 2,
         "info": "Mimi gémiarde interprété par <i>Shirley Henderson</i> a joué Ursula Blake<br>Dumbledor interprété par Michael Gambon a joué Kazran / Elliot Sardick<br> Arthur Weasley interprété par Mark Williams joue Brian Williams dans doctor who"
+    },{
+        "question":"Quel est le deuxième prénom de Mimi Geignarde",
+        "choix":[
+            "Alice","Myrtle","Elisabeth","Minerva"
+        ],
+        "reponse":2,
+        "info":"Myrtle Elizabeth Warren"
     },
     {
-        "question": "comment s'appelle l'objet qui permet de se téléporter d'un endroit à un autre ?",
+        "question": "A quelle maison appartenait Mimi Geignarde",
         "choix": [
-            "Port-aux-loin",
-            "Portoloin ",
-            "Porte-aux-loin",
-            "Portoloyn"
+            "Gryffondor",
+            "Poufsouffle",
+            "Serdaigle",
+            "Serpentard"
         ],
-        "reponse": 1
-    },
-    {
-        "question": "Lequel de ces sorciers n'a pas appartenu à Serpentard",
-        "choix": [
-            "Merlin",
-            "Horace Slughorn",
-            "Severus Rogue",
-            "Sibylle Trelawney"
-        ],
-        "joker":[1,2],
-        "reponse": 3,
-        "info": "Sibylle Trelawney appartenait à Serdaigle"
+        "reponse": 2
     },{
         "question":"A quel age harry potter a rejoint l'école des sorcier pour sa première année",
         "choix":[
@@ -40,7 +35,7 @@
         "reponse":3
     },
     {
-        "question":"D'après les films, à quel age les sorcière perdent-il la Trace qui detecte quand il usent de magie",
+        "question":"D'après les films, à quel age les sorcière perdent-ils la Trace qui detecte quand ils usent de magie",
         "choix":[
             "15 ans","16 ans","17 ans","18 ans"
         ],
@@ -61,18 +56,23 @@
         "joker":[0,2],
         "reponse":1
     },{
-        "question":"Comment s'appelle le chien d'Hagrid",
+        "question":"De quel bois est faite la baguette de Draco Malfoy",
         "choix":[
-            "Touffu","Crockdur","Patmol","Fenrir"
+            "Houx",
+            "Aubepine",
+            "Noyer",
+            "Cerisier"
         ],
         "reponse":1
-    },{
-        "question":"Lequel de ces sorciers n'a pas fait partie des 2 ordres du phoenix",
+    }, {
+        "question":"A partir de quel livre <i>la pensine</i> a t-elle était introduite",
         "choix":[
-            "Minerva McGonagall","Sirius Black","Remus Lupin","Alastor Maugrey"
+            "L'école des sorciers",
+            "La chambre des secrets",
+            "Le prisonier d'Azkaban",
+            "La coupe de feu"
         ],
-        "joker":[1,2],
-        "reponse":0
+        "reponse":3
     },{
         "question":"Qui double Ron Weasley dans la version française",
         "choix":[
@@ -85,24 +85,35 @@
             "Coupe de Helga Poufsouffle","Bague de Gaunt","Diadème de Rowena Serdaigle","Journal de Jedusor"
         ],
         "reponse":1
-    },{
-        "question":"Quel est le nom de la maison des Weasley ?",
-        "choix":[
-            "La Ferme","Le Terrier","Le repère","La rabouillère"
+    },
+    {
+        "question": "Qui a été sacrifié afin de créé l'horcruxe du Journal de Jedusor",
+        "choix": [
+            "Alice et Franck Londubat",
+            "Mimi Gégniarde",
+            "James et Lilly Potter",
+            "Sirius Black"
         ],
-        "reponse":1
+        "reponse": 1
     },{
-        "question":"Avec <i>Avada Kedavra</i> et <i>endoloris</i> quel autre sort fait partie des sortilège impardonnable?",
+        "question":"Qui est Nymphadora Tonks pour Drago Malfoy",
         "choix":[
-            "Impero","Stupefixe","Expeliarmus","Petrificus Totalus"
+            "Sa cousine",
+            "Sa belle-soeur",
+            "Sa maraine",
+            "Sa nièce"
         ],
         "reponse":0
-    },{
-        "question":"Comment s'appelle le village voisin de Poudlard ?",
-        "choix":[
-            "Preolar","Pré-au-Lard","Préau-lard","Pré-olard"
+    },
+    {
+        "question": "Quel est le prénom de Mimie Gégniarde",
+        "choix": [
+            "Michelle",
+            "Myrtle",
+            "Miriam",
+            "Mina"
         ],
-        "reponse":1
+        "reponse": 1
     },{
         "question":"Où se situe le quartier général de l'ordre du phoenix ?",
         "choix":[
@@ -117,9 +128,14 @@
         "question":"Quel est le deuxième prénom du frère de Sirius Black ?",
         "choix":["Arctarus","Aturus","Arcturus","Atarus"],
         "reponse":2
-    },{
-        "question":"Lorsqu'il faisait partie des Marauders, quel est le surnom de Peter Pettigrow ?",
-        "choix":["Queue-de-ver","Queudver","Queudvair","Queudvere"],
-        "reponse":1
+    }, {
+        "question":"Qui enseigne le sort de léviation dans le livre <i>Harry Potter à l'école des sorcier</i>",
+        "choix":[
+            "Minerva McGonagall",
+            "Severus Rogue",
+            "Filius Flitwick",
+            "Albus Dumbledore"
+        ],
+        "reponse":2
     }
 ]

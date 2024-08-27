@@ -1,0 +1,160 @@
+{
+    "Serie": [
+        {
+            "question": "Quel est le prénom de McGyver dans la série éponyme",
+            "choix": [
+                "Avery",
+                "Angus",
+                "Clint",
+                "Archibald"
+            ],
+            "reponse": 1,
+            "info": "Information de la question"
+        },
+        {
+            "question": "quel acteur de la série Prison Break joue le rôle éponyme de la série John Doe",
+            "choix": [
+                "Peter Jacobson",
+                "Wentworth Miller",
+                "Dominic Purcell",
+                "Robert Knepper"
+            ],
+            "reponse": 2,
+            "joker": [
+                1,
+                3
+            ]
+        },
+        {
+            "question": "Quel acteur de la série StarGate SG1 donne également la réplique à Richard Dean Anderson dans la série McGyver",
+            "choix": [
+                "Don S. Davis",
+                "Beau Bridges",
+                "Tony Amendola",
+                "Ronny Cox"
+            ],
+            "reponse": 0,
+            "info": "Information de la question"
+        },
+        {
+            "question": "Quel est le titre du premier épisode de la série buffy contre les vampires ?",
+            "choix": [
+                "Bienvenue à Sunnydale, partie 1",
+                "Bienvenue en enfer, partie 1",
+                "Un nouveau départ, partie 1",
+                "L'élue, partie 1"
+            ],
+            "reponse": 0,
+            "info": "Information de la question"
+        },
+        {
+            "question": "Quel membre n'a pas fait partie du Scooby Gang dans la deuxième saison de <i>Buffy Vampire Slayer</i>",
+            "choix": [
+                "Willow",
+                "Alex",
+                "Cordelia",
+                "Faith"
+            ],
+            "reponse": 3,
+            "info": "Faith n'apparaît qu'à la 3<sup>ième</sup> saison"
+        },
+        {
+            "question": "Comment s'appelle le protagoniste de la série K-2000 au début de la série",
+            "choix": [
+                "Michael Knight",
+                "Michel Long",
+                "Wilton Knight",
+                "Garth Lang"
+            ],
+            "reponse": 1,
+            "info": "Michael Long est gravement blessé à la tête et gravement défiguré dans l'exercice de ses fonctions. La fondation du milliardaire Wilton Knight prend en charge son hospitalisation et s'arrange pour lui donner le visage du son fils Gareth Knight avec lequel il est en froid.<br>Michael Long est déclaré mort et reprend l'identité Michael Knight"
+        }
+    ],
+    "harryPotter": [
+        {
+            "question": "Lequel de ces sorciers n'a pas fait partie des 2 ordres du phoenix",
+            "choix": [
+                "Minerva McGonagall",
+                "Sirius Black",
+                "Remus Lupin",
+                "Alastor Maugrey"
+            ],
+            "joker": [
+                1,
+                2
+            ],
+            "reponse": 0
+        },
+        {
+            "question": "Comment s'appelle le village voisin de Poudlard ?",
+            "choix": [
+                "Preolar",
+                "Pré-au-Lard",
+                "Préau-lard",
+                "Pré-olard"
+            ],
+            "reponse": 1
+        },
+        {
+            "question": "Quel est le nom de la maison des Weasley ?",
+            "choix": [
+                "La Ferme",
+                "Le Terrier",
+                "Le repère",
+                "La rabouillère"
+            ],
+            "reponse": 1
+        },
+        {
+            "question": "Avec <i>Avada Kedavra</i> et <i>endoloris</i> quel autre sort fait partie des sortilège impardonnable?",
+            "choix": [
+                "Impero",
+                "Stupefixe",
+                "Expeliarmus",
+                "Petrificus Totalus"
+            ],
+            "reponse": 0
+        },
+        {
+            "question": "comment s'appelle l'objet qui permet de se téléporter d'un endroit à un autre ?",
+            "choix": [
+                "Port-aux-loin",
+                "Portoloin ",
+                "Porte-aux-loin",
+                "Portoloyn"
+            ],
+            "reponse": 1
+        },
+        {
+            "question": "Lorsqu'il faisait partie des Marauders, quel est le surnom de Peter Pettigrow ?",
+            "choix": [
+                "Queue-de-ver",
+                "Queudver",
+                "Queudvair",
+                "Queudvere"
+            ],
+            "reponse": 1
+        },
+        {
+            "question": "Lequel de ces sorciers n'a pas appartenu à Serpentard",
+            "choix": [
+                "Merlin",
+                "Horace Slughorn",
+                "Severus Rogue",
+                "Sibylle Trelawney"
+            ],
+            "joker": [
+                1,
+                2
+            ],
+            "reponse": 3,
+            "info": "Sibylle Trelawney appartenait à Serdaigle"
+        },{
+            "question":"Comment s'appelle le chien d'Hagrid",
+            "choix":[
+                "Touffu","Crockdur","Patmol","Fenrir"
+            ],
+            "reponse":1
+        }
+    ]
+}
